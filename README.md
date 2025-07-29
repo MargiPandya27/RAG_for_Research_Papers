@@ -249,5 +249,3 @@ If you encounter any issues or have questions, please:
 
 ---
 
-**Note**: This project is designed for research and educational purposes. Please ensure you have the necessary permissions when processing copyrighted materials.
-
